@@ -1,0 +1,10 @@
+export const textColor = "#ffffff";
+export const blue_0 = "#AFDDFF";
+export const blue_1 = "#00E2FF";
+export const blue_2 = "#04D3FD";
+export const blue_3 = "#08C4FA";
+export const blue_4 = "#0CB5F8";
+export const blue_5 = "#11A7F5";
+export const blue_6 = "#1598F3";
+export const blue_7 = "#1989F0";
+export const blue_8 = "#1D7AEE";
